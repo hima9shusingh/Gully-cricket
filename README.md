@@ -8,9 +8,9 @@
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](YOUR_LIVE_URL)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://gully-cricket-ipwk.vercel.app/dashboard)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](YOUR_GITHUB_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/hima9shusingh/Gully-cricket)
 
 <br>
 
@@ -203,13 +203,13 @@ Realtime
 
 ## 🚀 Website
 
-👉 https://YOUR-LIVE-URL.vercel.app
+👉 https://gully-cricket-ipwk.vercel.app/dashboard
 
 ---
 
 # 💻 GitHub
 
-👉 https://github.com/YOUR_USERNAME/Gully-Cricket
+👉 https://github.com/hima9shusingh/Gully-cricket
 
 ---
 
