@@ -1,16 +1,278 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🏏 GULLY CRICKET
 
-Currently, two official plugins are available:
+### ⚡ Because every gully match deserves a scoreboard!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+*"No more... Bhai score kitna hua?" 😂*
 
-## React Compiler
+<br>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](YOUR_LIVE_URL)
 
-## Expanding the ESLint configuration
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](YOUR_GITHUB_URL)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+![Socket.io](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socket.io)
+
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+</div>
+
+---
+
+# 😂 Why I Built This?
+
+Let's be honest...
+
+Every gully cricket match ends like this...
+
+> 🧑 "Bhai 42 banaye the!"
+
+> 👦 "Nahi bhai 36 hi hue the!"
+
+> 🧑 "Wide bhi add karo!"
+
+> 👦 "Arre last ball count hi nahi hui!"
+
+After hearing this argument almost every Sunday...
+
+I decided...
+
+**Fine... I'll build an app that never forgets the score. 😎🏏**
+
+---
+
+# 🚀 Overview
+
+Gully Cricket is a modern real-time cricket scoring platform built for:
+
+🏏 Gully Cricket
+
+🏘 Colony Matches
+
+🏫 School Cricket
+
+🎓 College Tournaments
+
+🏆 Local Cricket Competitions
+
+Track everything from toss to trophy.
+
+No paper.
+
+No confusion.
+
+No score fights.
+
+---
+
+# ✨ Features
+
+## 🏏 Live Scoring
+
+✅ Ball by Ball Updates
+
+✅ Real Time Score
+
+✅ Run Rate
+
+✅ Target
+
+✅ Partnership
+
+✅ Timeline
+
+✅ Undo Ball
+
+---
+
+## 👥 Player Management
+
+✅ Unlimited Players
+
+✅ Batting Stats
+
+✅ Bowling Stats
+
+✅ Strike Rate
+
+✅ Economy
+
+✅ Wickets
+
+---
+
+## 🏆 Tournament
+
+✅ Create Tournament
+
+✅ Teams
+
+✅ Fixtures
+
+✅ Points Table
+
+✅ Results
+
+---
+
+## 📊 Analytics
+
+✅ Match Summary
+
+✅ Scorecard
+
+✅ Top Performers
+
+✅ History
+
+---
+
+## ⚡ Smart Features
+
+🏏 Select Opening Batsmen
+
+🎯 Select Bowler
+
+🔄 Automatic Strike Rotation
+
+📈 Live Score Updates
+
+⚡ Socket.io
+
+📱 Mobile Responsive
+
+🌙 Dark Mode
+
+---
+
+# 🤣 Problems This App Solves
+
+❌ "Bhai score kitna hua?"
+
+❌ "Wide tha."
+
+❌ "Out nahi tha."
+
+❌ "Tu cheating kar raha hai."
+
+❌ "Maine century maari thi."
+
+Now...
+
+The app remembers everything.
+
+Friends don't. 😎
+
+---
+
+# 💻 Tech Stack
+
+Frontend
+
+- React
+- Tailwind CSS
+- Vite
+
+Backend
+
+- Node.js
+- Express.js
+
+Database
+
+- MongoDB
+
+Realtime
+
+- Socket.io
+
+---
+
+# 🌍 Live Demo
+
+## 🚀 Website
+
+👉 https://YOUR-LIVE-URL.vercel.app
+
+---
+
+# 💻 GitHub
+
+👉 https://github.com/YOUR_USERNAME/Gully-Cricket
+
+---
+
+# 📸 Screenshots
+
+Coming Soon...
+
+---
+
+# 🎯 Future Updates
+
+- 🏆 IPL Style Scorecard
+
+- 📺 Live Streaming
+
+- 👨‍⚖ DRS (Only if friends agree 😂)
+
+- 🤖 AI Commentary
+
+- 📈 Player Rankings
+
+- 🌎 Online Multiplayer Matches
+
+- 📱 PWA
+
+---
+
+# 🤝 Contributing
+
+Pull Requests are welcome.
+
+Just don't submit one saying...
+
+> "Wide ko 2 runs kar do."
+
+😂
+
+---
+
+# ⭐ Support
+
+If you like this project,
+
+please give it a ⭐
+
+It motivates me to build even crazier projects.
+
+---
+
+<div align="center">
+
+# ❤️ Final Message
+
+> **Friendship is temporary...**
+
+> **Score disputes are forever. 😂🏏**
+
+So let **Gully Cricket** remember the score.
+
+Made with ❤️
+
+By a developer who got tired of hearing...
+
+**"Bhai score kitna hua?"** 😂🏏
+
+</div>
