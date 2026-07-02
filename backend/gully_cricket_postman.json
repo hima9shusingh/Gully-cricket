@@ -1,0 +1,23 @@
+{
+  "info": {
+    "name": "Gully Cricket API",
+    "description": "API Endpoints for Gully Cricket scoring and tournament management",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Auth",
+      "item": [
+        { "name": "Register", "request": { "method": "POST", "url": { "raw": "http://localhost:5000/api/auth/register", "host": ["http://localhost:5000"] } } },
+        { "name": "Login", "request": { "method": "POST", "url": { "raw": "http://localhost:5000/api/auth/login", "host": ["http://localhost:5000"] } } }
+      ]
+    },
+    {
+      "name": "Live Scoring",
+      "item": [
+        { "name": "Start Match", "request": { "method": "POST", "url": { "raw": "http://localhost:5000/api/matches/{{match_id}}/start", "host": ["http://localhost:5000"] } } },
+        { "name": "Add Event (Run/Wicket)", "request": { "method": "POST", "url": { "raw": "http://localhost:5000/api/matches/{{match_id}}/event", "host": ["http://localhost:5000"] }, "body": { "mode": "raw", "raw": "{\n  \"type\": \"run\",\n  \"value\": 1\n}", "options": { "raw": { "language": "json" } } } } }
+      ]
+    }
+  ]
+}

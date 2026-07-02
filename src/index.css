@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+@custom-variant dark (&:where(.dark, .dark *));
+@theme {
+  --color-cricket: #16A34A;
+  --color-cricket-dark: #15803d;
+  --color-navy: #0F172A;
+  --color-accent-orange: #F97316;
+  --color-accent-yellow: #FACC15;
+  --color-success: #22C55E;
+  --color-error: #EF4444;
+}
+
+@layer base {
+  html {
+    @apply antialiased;
+  }
+  
+  body {
+    @apply bg-slate-50 text-slate-900 dark:bg-slate-900 dark:text-slate-50 transition-colors duration-300;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-white/70 dark:bg-slate-900/70 backdrop-blur-md border border-white/20 dark:border-slate-800/50;
+  }
+}
