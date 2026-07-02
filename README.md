@@ -8,7 +8,7 @@
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](gully-cricket-ipwk.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://gully-cricket-ipwk.vercel.app/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/hima9shusingh/Gully-cricket)
 
@@ -203,7 +203,7 @@ Realtime
 
 ## 🚀 Website
 
-👉 gully-cricket-ipwk.vercel.app
+👉 https://gully-cricket-ipwk.vercel.app/
 
 ---
 
